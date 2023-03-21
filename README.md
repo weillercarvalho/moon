@@ -1,6 +1,6 @@
 # Moon
 
-A website layout maded 100% in SASS a pre processor of CSS.
+A SPA layout maded 100% in SASS a pre processor of CSS.
 
 
 ![Screenshot from 2023-02-25 23-51-08](https://user-images.githubusercontent.com/99501431/221389945-f4b0931e-d101-4593-affa-c012bf0f8708.png)
